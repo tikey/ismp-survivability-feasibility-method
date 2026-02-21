@@ -24,3 +24,31 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+## Run
+
+```bash
+python exp_section5_realistic_.py
+```
+##  Output
+
+The script generates figures and tabular outputs (CSV) for analysis of:
+- resource dynamics
+- connectivity degradation
+- reconfiguration behavior
+- feasibility-aware profile switching
+- survivability-related performance indicators
+
+## Reproducibility notes
+
+- Use the fixed random seed defined in the script (if applicable).
+- Record Python and package versions for exact result matching.
+- For publication use, cite a tagged release of this repository.
+
+## Citation
+
+If you use this code or reproduce the experiments, please cite this repository (see CITATION.cff) and the corresponding article.
+
+## License
+
+MIT License.
