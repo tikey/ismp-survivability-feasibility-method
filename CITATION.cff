@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this code, please cite this repository.
+title: Method for Ensuring the Survivability of an Information System on a Mobile Platform with Account for the Feasibility of Redundant Resource-Provisioning Profiles
+type: software
+authors:
+  - family-names: Tkachov
+    given-names: Vitalii
+  - family-names: Ruban
+    given-names: Ivan
+version: 1.0.0
+date-released: 2026-02-21
+repository-code: https://github.com/tikey/ismp-survivability-feasibility-method
+license: MIT
